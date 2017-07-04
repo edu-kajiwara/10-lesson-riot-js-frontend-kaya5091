@@ -1,4 +1,6 @@
 <user>
-    <p>{user_id}</p>
-    <p>{user_name}</p>
+    <tr>
+        <td>{user_id}</td>
+        <td>{user_name}</td>
+    </tr>
 </user>
